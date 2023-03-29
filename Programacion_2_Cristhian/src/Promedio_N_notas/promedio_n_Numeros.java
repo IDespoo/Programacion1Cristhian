@@ -1,3 +1,5 @@
+package Promedio_N_notas;
+
 import java.util.Scanner;
 public class promedio_n_Numeros
 {
