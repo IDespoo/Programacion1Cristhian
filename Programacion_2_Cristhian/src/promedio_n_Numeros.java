@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class promedio3Numeros
+public class promedio_n_Numeros
 {
     public static void main(String[] args)
     {
